@@ -1,3 +1,5 @@
+For the Demo purpose, please watch the "Demo.webm" file.
+
 In the realm of modern web development, the synergy of powerful technologies has given rise to sophisticated and responsive applications. This project, a culmination of Spring, React, and MongoDB, exemplifies the amalgamation of robust backend logic, dynamic frontend interfaces, and a flexible NoSQL database.
 
 Frontend with React:
